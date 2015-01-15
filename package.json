@@ -1,0 +1,19 @@
+{
+  "name": "stream-bandwidth",
+  "version": "0.0.1",
+  "description": "Give a stream bandwidth",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pmarques/node-stream-bandwidth"
+  },
+  "keywords": [
+    "stream",
+    "bandwidth"
+  ],
+  "author": "Patrick Marques <patrickfmarques@gmail.com>",
+  "license": "MIT"
+}
