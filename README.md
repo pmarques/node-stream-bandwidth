@@ -2,6 +2,8 @@
 
 This modules is useful to get the stream bandwidth over the time
 
+[![Build Status](https://snap-ci.com/pmarques/node-stream-bandwidth/branch/master/build_image)](https://snap-ci.com/pmarques/node-stream-bandwidth/branch/master)
+
 ## How to use it
 
 You just use it as a PassThrough stream and listen 2 events **progress** and **done**
