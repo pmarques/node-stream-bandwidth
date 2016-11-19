@@ -3,6 +3,7 @@
 This modules is useful to get the stream bandwidth over the time
 
 [![Build Status](https://snap-ci.com/pmarques/node-stream-bandwidth/branch/master/build_image)](https://snap-ci.com/pmarques/node-stream-bandwidth/branch/master)
+[![Build Status](https://semaphoreci.com/api/v1/pmarques/node-stream-bandwidth/branches/master/badge.svg)](https://semaphoreci.com/pmarques/node-stream-bandwidth)
 
 ## How to use it
 
