@@ -2,6 +2,7 @@
 
 This modules is useful to get the stream bandwidth over the time
 
+[![NPM version](http://img.shields.io/npm/v/stream-bandwidth.svg?style=flat-square)](https://npmjs.org/package/stream-bandwidth)
 [![npm version](https://badge.fury.io/js/stream-bandwidth.svg)](https://badge.fury.io/js/stream-bandwidth)
 [![Build Status](https://snap-ci.com/pmarques/node-stream-bandwidth/branch/master/build_image)](https://snap-ci.com/pmarques/node-stream-bandwidth/branch/master)
 [![Build Status](https://semaphoreci.com/api/v1/pmarques/node-stream-bandwidth/branches/master/badge.svg)](https://semaphoreci.com/pmarques/node-stream-bandwidth)
