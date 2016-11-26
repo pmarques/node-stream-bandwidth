@@ -8,6 +8,8 @@ This modules is useful to get the stream bandwidth over the time
 [![Build Status](https://semaphoreci.com/api/v1/pmarques/node-stream-bandwidth/branches/master/badge.svg)](https://semaphoreci.com/pmarques/node-stream-bandwidth)
 [![CircleCI](https://circleci.com/gh/pmarques/node-stream-bandwidth.svg?style=svg)](https://circleci.com/gh/pmarques/node- stream-bandwidth)
 [![Build Status](https://drone.io/github.com/pmarques/node-stream-bandwidth/status.png)](https://drone.io/github.com/pmarques/node-stream-bandwidth/latest)
+[![Run Status](https://api.shippable.com/projects/57c9d10be19a0f0f00f790be/badge?branch=master)](https://app.shippable.com/projects/57c9d10be19a0f0f00f790be)
+[![Coverage Badge](https://api.shippable.com/projects/57c9d10be19a0f0f00f790be/coverageBadge?branch=master)](https://app.shippable.com/projects/57c9d10be19a0f0f00f790be)
 
 ## How to use it
 
